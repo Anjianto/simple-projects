@@ -1,0 +1,14 @@
+{
+  "name": "simple-projects",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "anjianto <anjianto06@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "projects/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
